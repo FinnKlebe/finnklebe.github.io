@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:finn.klebe.21@ucl.ac.uk"}
-  - {title: Twitter, icon: x-twitter, url: "https://x.com/FinnKlebe"}
+  - {title: Twitter, icon: square-x-twitter, url: "https://x.com/FinnKlebe"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
